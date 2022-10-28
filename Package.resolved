@@ -23,26 +23,26 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/Boilertalk/secp256k1.swift.git",
       "state" : {
-        "revision" : "45e458ec3be46cf0a6eb68bc947f797852dc65d8",
-        "version" : "0.1.6"
+        "revision" : "cd187c632fb812fd93711a9f7e644adb7e5f97f0",
+        "version" : "0.1.7"
       }
     },
     {
       "identity" : "solana.swift",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/metaplex-foundation/Solana.Swift.git",
+      "location" : "https://github.com/MirekR/Solana.Swift",
       "state" : {
-        "branch" : "2.0.1",
-        "revision" : "ec39cf85ee103c78fa46451c21c4bb341aac87bc"
+        "branch" : "master",
+        "revision" : "78cd082e98047179d245057fa02bd8a8ea83af23"
       }
     },
     {
       "identity" : "solita-swift",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/metaplex-foundation/solita-swift.git",
+      "location" : "https://github.com/MirekR/solita-swift",
       "state" : {
-        "branch" : "1.0.2",
-        "revision" : "dd53514e096696ff84c496e4e14d5253b36ef41c"
+        "branch" : "forked",
+        "revision" : "ab7ea1af1025ba32071873d47a9b0f58027aefcb"
       }
     },
     {
