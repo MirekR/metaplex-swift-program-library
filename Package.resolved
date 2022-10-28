@@ -5,8 +5,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/metaplex-foundation/beet-swift",
       "state" : {
-        "branch" : "1.0.2",
-        "revision" : "05657fa3511b8b72ea8da77745373215445c9885"
+        "revision" : "05657fa3511b8b72ea8da77745373215445c9885",
+        "version" : "1.0.2"
       }
     },
     {

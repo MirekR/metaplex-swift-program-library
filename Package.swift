@@ -16,7 +16,7 @@ let package = Package(
     dependencies: [
         // Dependencies declare other packages that this package depends on.
         // .package(url: /* package url */, from: "1.0.0"),
-        .package(url: "https://github.com/metaplex-foundation/beet-swift", branch: "1.0.2"),
+        .package(url: "https://github.com/metaplex-foundation/beet-swift", from: "1.0.2"),
         .package(url: "https://github.com/MirekR/solita-swift", branch: "forked")
     ],
     targets: [
